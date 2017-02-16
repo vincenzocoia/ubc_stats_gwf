@@ -1,0 +1,415 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\date{Friday, January 16, 10:00am}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+GWF Meeting Minutes -- Workshop Planning
+\end_layout
+
+\begin_layout Author
+By Vincenzo Coia
+\end_layout
+
+\begin_layout Paragraph
+Attendees:
+\end_layout
+
+\begin_layout Standard
+Vincenzo Coia, Andy Leung, Neil Spencer, Estella Qi
+\end_layout
+
+\begin_layout Paragraph
+Purpose:
+\end_layout
+
+\begin_layout Standard
+To plan a practical 
+\begin_inset Quotes eld
+\end_inset
+
+writing skills
+\begin_inset Quotes erd
+\end_inset
+
+ workshop.
+\end_layout
+
+\begin_layout Section
+Topic Ideas for the workshop
+\end_layout
+
+\begin_layout Standard
+We decided on two possible topics that the workshop can be based on:
+\end_layout
+
+\begin_layout Enumerate
+Writing abstracts (1 page maximum)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Could be an abstract for a paper, thesis, talk, etc.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Writing cover letters (1 page maximum)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+For either academic or industry/government jobs.
+\end_layout
+
+\begin_layout Itemize
+With this topic, we could have a mock 
+\begin_inset Quotes eld
+\end_inset
+
+hiring process
+\begin_inset Quotes erd
+\end_inset
+
+ during the workshop:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Since we can't teach about writing a 
+\begin_inset Quotes eld
+\end_inset
+
+general
+\begin_inset Quotes erd
+\end_inset
+
+ cover letter, we could pick 2 job postings (one academic and one industry/gover
+nment), and ask that students write a cover letter for one of these jobs.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+If they choose, students could also bring a cover letter for a job they
+ would like to apply for.
+ If so, they should bring the job posting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Students could also bring their CV to aid in the process.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+We also discussed 
+\begin_inset Quotes eld
+\end_inset
+
+putting together a portfolio
+\begin_inset Quotes erd
+\end_inset
+
+ as a topic, but since this is less about writing skills, we deemed it to
+ be not appropriate.
+ 
+\end_layout
+
+\begin_layout Section
+When the workshop would take place
+\end_layout
+
+\begin_layout Standard
+We decided on three possible dates:
+\end_layout
+
+\begin_layout Enumerate
+Wednesday, February 18th (during reading week; Vincenzo has his comprehensive
+ exam sometime this week)
+\end_layout
+
+\begin_layout Enumerate
+Saturday, March 14 (two weeks after the SFU/UBC Joint Seminar)
+\end_layout
+
+\begin_layout Enumerate
+Thursday, April 30 (right after exams are done, and hopefully before people
+ go away)
+\end_layout
+
+\begin_layout Section
+Workshop Agenda
+\end_layout
+
+\begin_layout Standard
+The total workshop length should be about 2.5 hours.
+ Here is the agenda we came up with:
+\end_layout
+
+\begin_layout Enumerate
+Introduction (discuss outline/agenda of the workshop) (
+\begin_inset Formula $\sim10$
+\end_inset
+
+ minutes)
+\end_layout
+
+\begin_layout Enumerate
+Presentation by a faculty member.
+ (
+\begin_inset Formula $\sim30$
+\end_inset
+
+ minutes).
+ Topics:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Why is writing in the chosen topic important?
+\end_layout
+
+\begin_layout Itemize
+How can one write about the chosen topic well? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Discuss and supply a rubric for 
+\begin_inset Quotes eld
+\end_inset
+
+evaluating
+\begin_inset Quotes erd
+\end_inset
+
+ the topic of choice.
+ 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Review process: (
+\begin_inset Formula $\sim60$
+\end_inset
+
+ minutes)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Students should enter the workshop with an example of their work on the
+ topic of choice.
+\end_layout
+
+\begin_layout Itemize
+Randomized pairs can exchange their individual papers to 
+\begin_inset Quotes eld
+\end_inset
+
+neighbouring
+\begin_inset Quotes erd
+\end_inset
+
+ pairs, and each pair can discuss amongst themselves about how their peers'
+ papers can be improved (by using the rubric provided by faculty).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Working in pairs encourages discussion, and is hence potentially more beneficial
+ than working as individuals.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Each pair would then explain their feedback to their peers, as well as receive
+ an explanation of feedback on their own papers.
+ (Details of the mechanics to be worked out later)
+\end_layout
+
+\begin_layout Itemize
+The faculty member could potentially be involved (or a second faculty member)
+ by going from pair to pair and giving their input, or just be around to
+ answer questions that the pair may have.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Coffee break (15--30 minutes, depending on how long/short the review process
+ is)
+\end_layout
+
+\begin_layout Enumerate
+Post discussion (
+\begin_inset Formula $\sim20$
+\end_inset
+
+ minutes, depending on how chatty the group is)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Exchanging feedback is sure to generate some disagreement and/or some insight.
+ We'll have a 
+\begin_inset Quotes eld
+\end_inset
+
+roundtable discussion
+\begin_inset Quotes erd
+\end_inset
+
+ where workshop participants can share their insight, or discuss a controversial
+ decision.
+\end_layout
+
+\begin_layout Itemize
+The faculty member can also be involved with this.
+ Their input would be useful in clarifying any controversies.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Potential Issues
+\end_layout
+
+\begin_layout Standard
+There are potential issues with holding a feedback-oriented workshop:
+\end_layout
+
+\begin_layout Itemize
+Students may feel uncomfortable sharing their work.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We can't and shouldn't change the sharing feature, but could emphasize the
+ importance of sharing our work.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+We should ensure that the faculty member does not have to take over with
+ the organization of the event (and that it doesn't seem that way).
+\end_layout
+
+\begin_layout Section
+What's Next?
+\end_layout
+
+\begin_layout Standard
+Here is what needs to be done next:
+\end_layout
+
+\begin_layout Enumerate
+(Andy) Send a survey to the graduate students gauging interest on the potential
+ workshop dates, and the potential topics.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A small description of the workshop purpose/agenda should also be included.
+\end_layout
+
+\begin_layout Itemize
+Results should be in by next Friday (January 23rd).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(Vincenzo) Call another meeting to discuss implementing the workshop.
+ Some things we need to discuss are:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Choosing a faculty member
+\end_layout
+
+\begin_layout Itemize
+Choosing a date and time for the workshop
+\end_layout
+
+\begin_layout Itemize
+Possibly supplying the faculty member with an example document to use during
+ their presentation.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document

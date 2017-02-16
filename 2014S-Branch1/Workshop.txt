@@ -1,0 +1,40 @@
+GWF WORKSHOP: Writing Grant Applications
+========================================
+June 19, 2014. 12:00pm -- 1:
+Attendees: John, Camila, Vincenzo, Andy, Estella, Neil, Sean
+
+1. What's important in the application?
+
+Most important things are the *letters* and your grades.
+-Letters become more important as you get further in your studies, and grades less so.
+-PhD scholarships are more focused on project proposal, especially if you're applying with more graduate experience. If you're applying for a post-doc, you'd be expected to name very detailed research proposal, and who will be working under and why.
+-NSERC discovery grants -- upon renewal, they don't care so much about the projects, they're funding *individuals*.
+	-The majority of that money would go towards supporting graduate students and post-docs on RAs. Could go towards travel, computing support, equipment. (in the mathematical sciences)
+	-NSERC: You'd need to provide a detailed budget and justify it. They won't give you more money than you ask for, so it's important to ask for more than you expect to need.
+-There exist programs for salary support, such as CIHR for medical positions (no such program in NSERC)
+-Other programs like CIHR fund projects.
+-Leadership activities that are not related to science are not so important, especially for grant proposals. May be a little more important for scholarships to convey a notion of well-roundedness. But definitely include science-related leadership, such as supervising undergraduate students (though this is less important as you move up).
+
+2. Research proposal
+
+-Be sure to outline what you are really trying to accomplish? This means specifying the motivation. **Why is it important** -- needs to be convincing! This is probably the most important thing. 
+-What ideas do you have for the *approach* you'll take? 
+-What will the impact be?
+	-Problem/motivation should be clear in a conceptual way as opposed to technical.
+-Post doc application: panel is cross-disciplinary, whereas faculty grants will have a panel of your discipline, so details of the application should be geared with this in mind.
+	-A good way to assess how readable your proposal is to people in other disciplines, hand your proposal over to a friend.
+	-It's nice to have a mentor read your proposal too. (Important to have a mentor at the faculty level)
+
+3. Common pitfalls
+
+-Lack of clarity in objective is the biggest.
+-Too much emphasis on technical details.
+
+4. What really shines on an application?
+
+-Innovation/originality can be very powerful. Should not be a "minor perturbation" of existing research (that's ok but won't get you high marks).
+-Don't be shy -- need to blow your own horn a little bit.
+
+5. Should working papers be included?
+
+-If it's allowed. In general, if you're allowed to list something, then you should (unless you have space restrictions.)
